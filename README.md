@@ -6,21 +6,21 @@
 
 # **订阅平台**
 <a href="https://podcasts.apple.com/podcast/id1625856906" target="_blank" rel="noopener">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.bumingbai.net/wp-content/uploads/2022/10/apple-podcasts.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://www.bumingbai.net/wp-content/uploads/2022/10/apple-podcasts20black.png">
-    <img class="alignnone size-full wpimage-70" src="https://bmb-public-bucket.s3.us-east-1.amazonaws.com/Public/apple-podcasts%20black.png" alt="Apple Podcasts" height="40">
-  </picture>
-</a>
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://bmb-public-bucket.s3.us-east-1.amazonaws.com/Public/apple-podcasts.png">
+     <source media="(prefers-color-scheme: light)" srcset="https://bmb-public-bucket.s3.us-east-1.amazonaws.com/Public/apple-podcasts%20black.png">
+     <img class="alignnone size-full wpimage-70" src="https://bmb-public-bucket.s3.us-east-1.amazonaws.com/Public/apple-podcasts%20black.png" alt="Apple Podcasts" height="40">
+   </picture>
+ </a>
 
-<a href="https://open.spotify.com/show/5CV2Xo4kHE6Lf1iZBzsrP2" target="_blank" rel="noopener">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.bumingbai.net/wp-content/uploads/2022/10/Spotify.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://www.bumingbai.net/wp-content/uploads/2022/10/Spotify%20black.png">
-    <img class="alignnone size-full wpimage-70" src="https://bmb-public-bucket.s3.us-east-1.amazonaws.com/Public/Spotify%20black.png" alt="Spotify" height="40">
-  </picture>
-</a>
-
+ <a href="https://open.spotify.com/show/5CV2Xo4kHE6Lf1iZBzsrP2" target="_blank" rel="noopener">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://bmb-public-bucket.s3.us-east-1.amazonaws.com/Public/Spotify.png">
+     <source media="(prefers-color-scheme: light)" srcset="https://bmb-public-bucket.s3.us-east-1.amazonaws.com/Public/Spotify%20black.png">
+     <img class="alignnone size-full wpimage-70" src="https://bmb-public-bucket.s3.us-east-1.amazonaws.com/Public/Spotify%20black.png" alt="Spotify" height="40">
+   </picture>
+ </a>
+ 
 <a href="https://music.youtube.com/channel/UCAf2O_wWu1YCS9YLUqnyqDA" target="_blank" rel="noopener">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://bmb-public-bucket.s3.us-east-1.amazonaws.com/Public/google-podcast.png">
