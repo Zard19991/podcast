@@ -21,7 +21,7 @@
   </picture>
 </a>
 
-<a href="[https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xOTgyNTI1LnJzcw](https://music.youtube.com/channel/UCAf2O_wWu1YCS9YLUqnyqDA)" target="_blank" rel="noopener">
+<a href="https://music.youtube.com/channel/UCAf2O_wWu1YCS9YLUqnyqDA" target="_blank" rel="noopener">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://bmb-public-bucket.s3.us-east-1.amazonaws.com/Public/google-podcast.png">
     <source media="(prefers-color-scheme: light)" srcset="https://bmb-public-bucket.s3.us-east-1.amazonaws.com/Public/google-podcast%20black.png">
